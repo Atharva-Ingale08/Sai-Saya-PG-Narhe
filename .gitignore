@@ -34,3 +34,7 @@ dist-ssr
 .workspace/
 .git-lovable-backup
 tsconfig.tsbuildinfo
+
+.workspace/
+.git-lovable-backup
+tsconfig.tsbuildinfo
